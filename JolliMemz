@@ -1,7 +1,4 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/CustomModules/6872274481.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YZSomething/lol/main/cummands.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YZSomething/lol/main/Loader.lua"))()
-
 
 local GuiLibrary = shared.GuiLibrary
 local players = game:GetService("Players")
